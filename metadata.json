@@ -1,0 +1,7 @@
+{
+  "name": "TendaLux Aluguéis",
+  "description": "Uma plataforma moderna de aluguel de tendas para eventos, com geração de imagens por IA e design focado em conversão e estética verde.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
